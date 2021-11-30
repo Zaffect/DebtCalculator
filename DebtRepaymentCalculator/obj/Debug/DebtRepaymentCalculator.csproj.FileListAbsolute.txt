@@ -1,0 +1,11 @@
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.csprojAssemblyReference.cache
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.DebtRepayment.resources
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.Properties.Resources.resources
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.csproj.GenerateResource.cache
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\bin\Debug\DebtRepaymentCalculator.exe.config
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\bin\Debug\DebtRepaymentCalculator.exe
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\bin\Debug\DebtRepaymentCalculator.pdb
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.exe
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.pdb
+C:\Users\zacha\Documents\Fall2020\C#\Final Project\DebtRepaymentCalculator\DebtRepaymentCalculator\obj\Debug\DebtRepaymentCalculator.DisplayTime.resources
